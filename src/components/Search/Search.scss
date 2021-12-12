@@ -1,0 +1,11 @@
+@use '../../assets/sass/_variables.scss' as *;
+
+.searchInput{
+  // width: 70%;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 1rem;
+  color: $color-grey;
+  cursor: pointer;
+}
+

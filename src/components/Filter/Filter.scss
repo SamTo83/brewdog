@@ -1,0 +1,19 @@
+@use '../../assets/sass/_variables.scss' as *;
+
+
+input{
+  
+  justify-content: center;
+  align-items: center;
+}
+.filter__section{
+  display: grid;
+  font-size: 1rem;
+  grid-template-rows: repeat(4, 1fr);
+}
+.filter__container{
+  display: grid;
+  grid-template-columns: 100px 60px 150px;
+  align-items: center;
+  justify-content: center;
+}

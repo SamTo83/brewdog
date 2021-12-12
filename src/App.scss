@@ -1,0 +1,24 @@
+@use './assets/sass/_variables.scss' as *;
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+body{
+  background-color: $color-black;
+}
+.Beer{
+  color: $color-primary;
+  font-size: 3rem;
+  margin: 1rem;
+}
+p{
+  color: $color-white;
+  font-size: .8rem;
+}
+.beer__title{
+  display: flex;
+  align-items: center;
+}

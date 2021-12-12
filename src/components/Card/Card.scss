@@ -1,0 +1,36 @@
+@use '../../assets/sass/_variables.scss' as *;
+
+.card__info{
+  display: grid;
+  grid-template-columns: 1fr;
+  padding: 10px;
+  background-color: $color-grey;
+  border-radius: 20px;
+  margin: 1rem;
+  p{
+    color: $color-white;
+    font-size: .9rem;
+  }
+  h4, h3{
+    color: $color-primary;
+  }
+}
+.beer__container{
+  display: flex;
+  justify-content: center;
+  
+  .beer__image{
+    height: 250px;
+    justify-content: center;
+  }
+  
+}
+.beer__header{
+  display: grid;
+  grid-template-columns: auto 40px 40px ;
+  align-items: center;
+  border-top: 2px dashed $color-primary;
+  border-bottom: 2px solid $color-primary;
+  margin: 10px 0;
+}
+
