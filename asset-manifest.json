@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/brewdog.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/brewdog.git/static/js/main.5937fe0a.chunk.js",
+    "main.js.map": "/brewdog.git/static/js/main.5937fe0a.chunk.js.map",
+    "runtime-main.js": "/brewdog.git/static/js/runtime-main.e5d5e8e9.js",
+    "runtime-main.js.map": "/brewdog.git/static/js/runtime-main.e5d5e8e9.js.map",
+    "static/js/2.a3ba127a.chunk.js": "/brewdog.git/static/js/2.a3ba127a.chunk.js",
+    "static/js/2.a3ba127a.chunk.js.map": "/brewdog.git/static/js/2.a3ba127a.chunk.js.map",
+    "static/js/3.849e67e5.chunk.js": "/brewdog.git/static/js/3.849e67e5.chunk.js",
+    "static/js/3.849e67e5.chunk.js.map": "/brewdog.git/static/js/3.849e67e5.chunk.js.map",
+    "index.html": "/brewdog.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/brewdog.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.a3ba127a.chunk.js.LICENSE.txt": "/brewdog.git/static/js/2.a3ba127a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/brewdog.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5d5e8e9.js",
+    "static/js/2.a3ba127a.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.5937fe0a.chunk.js"
+  ]
+}
