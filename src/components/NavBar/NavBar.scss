@@ -40,3 +40,9 @@
     justify-content: center;
   }
 }
+
+@media (min-width: 768px) {
+  .nav{
+    height: 90vh;
+  }
+}
