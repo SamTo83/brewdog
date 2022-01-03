@@ -32,7 +32,8 @@ export const App = () => {
 
   useEffect(() => {
     fetchBeers();
-  }, );
+  }, []);
+  
   const toggleNav = () => {
     setShowNav(!showNav);
   };

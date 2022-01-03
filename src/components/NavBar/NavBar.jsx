@@ -56,7 +56,7 @@ const NavBar = (props) => {
         
       </div>
       <p className="note">ABV: Alcohol by volume</p>
-      <p className="note">PH: Power of hydrogen</p>
+      <p className="note">IBU: International Bittering Units</p>
     </div>
   )
 }
