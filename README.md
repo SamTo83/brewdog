@@ -1,6 +1,6 @@
 # BrewDog API
 
-[You can check out my game by clicking on this link](https://samto83.github.io/brewdog/)
+[You can check out my application by clicking on this link](https://samto83.github.io/brewdog/)
 
 ![BrewDog page](https://github.com/SamTo83/brewdog/blob/master/brewdog.PNG)
 
